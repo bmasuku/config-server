@@ -17,4 +17,4 @@ payment-service:
 order-service:
   endpoints:
     endpoint:
-      pay-url: http://ORDER-SERVICE/order/book-order
+      order-url: http://ORDER-SERVICE/order/book-order
