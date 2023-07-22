@@ -8,7 +8,7 @@ eureka:
     hostname: localhost
 
 
-payment-service:
+pay-service:
   endpoints:
     endpoint:
       pay-url: http://PAYMENT-SERVICE/payment/pay
